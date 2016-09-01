@@ -8,8 +8,8 @@
     <keywords>intercom,intercom-cordova</keywords>
 
     <engines>
-      <engine name="cordova" version=">=4.0.0" />
-      <engine name="cordova-android" version=">=4.0.0" />
+      <engine name="cordova" version=">=3.9.2" />
+      <engine name="cordova-android" version=">=3.9.2" />
       <engine name="cordova-ios" version=">=3.9.2" />
     </engines>
 
